@@ -1,0 +1,11 @@
+langgraph>=0.2.0
+langgraph-cli>=0.1.0
+langchain>=0.3.0
+langchain-core>=0.3.0
+langchain-google-vertexai>=0.1.0
+langchain-openai>=0.1.0
+langchain-mcp-adapters
+google-cloud-aiplatform>=1.70.0
+mcp>=1.0.0
+websockets>=12.0
+python-dotenv>=1.0.1
