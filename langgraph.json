@@ -1,0 +1,14 @@
+{
+  "graphs": {
+    "default": "./graph.py:app"
+  },
+  "dependencies": [
+    "graph.py",
+    "agent.py",
+    "requirements.txt"
+  ],
+  "env": [
+    "OPENAI_API_KEY",
+    "LANGSMITH_API_KEY"
+  ]
+}
